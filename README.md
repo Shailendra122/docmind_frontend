@@ -116,7 +116,7 @@ Older messages are intelligently summarized to prevent context overflow during l
 
 The latest Android release APK will be available through GitHub Releases.
 
-[Download Latest APK(https://github.com/Shailendra122/docmind_frontend/releases/tag/v1.0.0)
+[Download Latest APK(https://github.com/Shailendra122/docmind_frontend/releases/download/v1.0.0/app-release.apk)
 
 ## Deployment
 
