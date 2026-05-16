@@ -97,3 +97,65 @@ Older messages are intelligently summarized to prevent context overflow during l
 | Hosting | Render + Firebase Hosting |
 | PDF Processing | PyPDF |
 | Export Engine | ReportLab |
+
+## Screenshots
+
+<p align="center">
+  <img src="assets/screenshots/login_screen.jpg" width="220"/>
+  <img src="assets/screenshots/sign_up_screen.jpg" width="220"/>
+  <img src="assets/screenshots/chat_screen.jpg" width="220"/>
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/upload_bottomsheet.jpg" width="220"/>
+  <img src="assets/screenshots/uploaded_bottomsheet.jpg" width="220"/>
+  <img src="assets/screenshots/history_screen.jpg" width="220"/>
+</p>
+
+## APK Download
+
+The latest Android release APK will be available through GitHub Releases.
+
+> Coming soon
+
+## Deployment
+
+### Frontend
+
+* Flutter Web deployed using Firebase Hosting
+
+### Backend
+
+* FastAPI backend deployed on Render
+
+### Database & Authentication
+
+* Supabase PostgreSQL + Supabase Auth
+
+### AI Infrastructure
+
+* OpenAI GPT-4o APIs
+
+## Security
+
+* Row Level Security (RLS) enforced on all user data
+* Authenticated document ownership validation
+* Protected API access patterns
+* Environment-based secret management
+* Supabase Auth session handling
+## Future Improvements
+
+- Multi-document conversations
+- OCR support for scanned PDFs
+- Voice interaction support
+- Team workspaces
+- Vector database integration
+- Offline caching
+- AI-generated document summaries
+- Mobile push notifications
+
+## Author
+
+Developed by Shailendra Shrivastav
+
+If you found this project interesting, feel free to connect or provide feedback.
