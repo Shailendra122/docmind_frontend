@@ -107,7 +107,7 @@ Older messages are intelligently summarized to prevent context overflow during l
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/profile_screen.jpg" width="220"/>
+  <img src="assets/screenshots/upload_bottomsheet.jpg" width="220"/>
   <img src="assets/screenshots/uploaded_bottomsheet.jpg" width="220"/>
   <img src="assets/screenshots/history_screen.jpg" width="220"/>
 </p>
