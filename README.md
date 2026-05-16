@@ -156,6 +156,10 @@ The latest Android release APK will be available through GitHub Releases.
 
 ## Author
 
-Developed by Shailendra Shrivastav
+Developed by **Shailendra Shrivastav**
+
+📧 shailendrashrivastava1292@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/shailendra-shrivastav-webdeveloper/)  
+🐙 [GitHub](https://github.com/Shailendra122)
 
 If you found this project interesting, feel free to connect or provide feedback.
